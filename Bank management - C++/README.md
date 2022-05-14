@@ -1,0 +1,1 @@
+This project was created for an internal assignment during my 12 std. It is a bank management system with data file handling and is designed with flexible options like account creation, money deposit and withdrawal, and balance viewing. Administrators have a separate login with additional privileges.

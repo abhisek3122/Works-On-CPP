@@ -1,0 +1,1 @@
+During my 11th grade, I worked on this project for an internal assignment. It is a billing and invoicing system with minimum viable options.
